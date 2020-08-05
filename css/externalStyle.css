@@ -119,6 +119,8 @@ body{
     }
       #vid>iframe{
         margin: auto;
+        text-align: center;
+        padding-left: 5%;
         display: inline-block;
         
       }
